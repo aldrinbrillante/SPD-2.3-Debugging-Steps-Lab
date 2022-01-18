@@ -10,6 +10,18 @@ Exercise 1
 # - What line number is causing the error?
 # - What can you deduce about the cause of the error?
 
+"""
+Part 1:
+What is the expected vs. the actual output?
+    - 
+What error message (if any) is there?
+    - IndexError: list index out of range
+What line number is causing the error?
+    - line 31, line 23
+What can you deduce about the cause of the error?
+    - misplacement
+"""
+
 
 # PART 2: State Assumptions
 #
